@@ -11,6 +11,10 @@ color: #FFFFFF
 	font-weight: bold;
 }
 
+.important {
+	font-size: 18px;
+}
+
 h1, p {
 	font-family: Arial, sans-serif;
 	color: #e06e12;
