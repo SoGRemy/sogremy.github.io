@@ -3,5 +3,6 @@ body {
 }
 
 h1, p {
+	font-family: Arial, sans-serif;
 	color: #e06e12;
 }
