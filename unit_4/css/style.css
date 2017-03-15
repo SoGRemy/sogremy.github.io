@@ -1,4 +1,6 @@
 
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
 body{
   font-family: Helvetica;
   font-size: 16px;
@@ -6,7 +8,7 @@ body{
   color: #f2f2f2;
 }
 h1{
-	font-family: Tahoma, sans-serif;
+	font-family: 'Gloria Hallelujah', cursive;
 	font-size: 80px;
 	text-transform: uppercase;
 	color: #e06e12;
