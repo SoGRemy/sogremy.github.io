@@ -5,6 +5,9 @@
 }
 
 body {
+	background-image: url("images/wallpaper-video-games-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 	font-family: "Lato", Lato, Arial, sans-serif;
 	font-size: 20px;
 	line-height: 1.5;
