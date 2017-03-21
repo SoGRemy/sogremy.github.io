@@ -33,11 +33,11 @@ nav {
 	width: 1099px;
     margin-top: -7px;
 	text-align: center;
-	background-color: #e06e12;
+	background-color: #333333;
 }
 
 nav a {
-	color: #333333;
+	color: #ffffff;
 	display: block;
 	width: 180px;
 	float: left;
@@ -45,7 +45,7 @@ nav a {
 }
 
 nav a:hover {
-	background-color: #5FE060;
+	background-color: #e06e12;
 }
 
 main {
