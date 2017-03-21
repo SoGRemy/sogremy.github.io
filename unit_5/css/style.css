@@ -30,6 +30,7 @@ header {
 }
 
 nav {
+	width: auto;
     margin-top: -7px;
 	text-align: center;
 	background-color: #333333;
