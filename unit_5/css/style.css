@@ -33,11 +33,11 @@ nav {
 	width: 1099px;
     margin-top: -7px;
 	text-align: center;
-	background-color: #333333;
+	background-color: #5FE060;
 }
 
 nav a {
-	color: #5FE060;
+	color: #333333;
 	display: block;
 	width: 180px;
 	float: left;
