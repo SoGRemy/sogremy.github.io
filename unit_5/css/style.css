@@ -33,7 +33,7 @@ nav {
 	width: 1099px;
     margin-top: -7px;
 	text-align: center;
-	background-color: #5FE060;
+	background-color: #e12e06;
 }
 
 nav a {
@@ -45,7 +45,7 @@ nav a {
 }
 
 nav a:hover {
-	background-color: #e06e12;
+	background-color: #5FE060;
 }
 
 main {
