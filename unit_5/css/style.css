@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-	color: #dd0000;
+	color: #EDEDED;
 }
 
 img { width:100%; }
@@ -55,7 +55,7 @@ main {
 	width: 66.66%;
 	float: left;
 	background: #222;
-	color: #fff;
+	color: #ededed;
 	padding: 2em;
 }
 
