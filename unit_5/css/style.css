@@ -5,9 +5,6 @@
 }
 
 body {
-	background-image: url("images/wallpaper-video-games-2.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
 	font-family: "Lato", Lato, Arial, sans-serif;
 	font-size: 20px;
 	line-height: 1.5;
@@ -33,7 +30,7 @@ header {
 }
 
 nav {
-	width: 1099px;
+	width: 100%;
     margin-top: -7px;
 	text-align: center;
 	background-color: #333333;
@@ -52,8 +49,10 @@ nav a:hover {
 }
 
 main {
-	width: 720px;
+	width: 66%;
 	float: left;
+	background: #333333
+	padding: 2em;
 }
 
 article {
@@ -64,7 +63,7 @@ article {
 aside {
 	padding-top: 20px;
 	float: right;
-	width: 320px;
+	width: 34%;
 }
 
 aside img{
@@ -78,7 +77,7 @@ footer {
 }
 
 footer p {
-	float: right;
+	align-content: right;
 }
 
 ul {
@@ -99,4 +98,5 @@ ul {
 	width: 1080px;
 	margin-left: auto;
 	margin-right: auto;
+	background: #333
 }
