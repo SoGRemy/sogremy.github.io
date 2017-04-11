@@ -127,4 +127,10 @@ ul {
 		float: none;
 		padding: 2em;
 	}
+
+	article {
+		width: 90%;
+		float: none;
+		padding: 2em;
+	}
 }
