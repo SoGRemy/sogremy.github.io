@@ -115,4 +115,16 @@ ul {
     /*margin-left: 150px;*/
     margin: 0 auto;
 	}
+
+	aside {
+		width: 100%;
+		float: none;
+		padding: 3em;
+	}
+
+	main {
+		width: 100%;
+		float: none;
+		padding: 2em;
+	}
 }
