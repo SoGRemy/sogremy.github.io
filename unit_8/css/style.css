@@ -44,7 +44,7 @@ nav a {
 	display: block;
 	width: 16.66%;
 	float: left;
-	padding: 2em 0;
+	padding: 5px 0;
 }
 
 nav a:hover {
@@ -65,7 +65,7 @@ article {
 }
 
 aside {
-	padding-top: 20em;
+	padding-top: 20px;
 	float: left;
 	width: 33.33%;
 	padding: 2em;
