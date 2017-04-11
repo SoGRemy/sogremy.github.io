@@ -1,0 +1,108 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url("../images/wallpaper-video-games-2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom;
+	background-attachment: fixed;
+	font-family: "Lato", Lato, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5 {
+	font-weight: 800;
+}
+
+h1 {
+	color: #EDEDED;
+}
+
+img { width:100%; }
+a {
+	color: #e12e06;
+	text-decoration: none;
+}
+
+header {
+    padding: 0;
+}
+
+nav {
+	margin-top: -7px;
+	text-align: center;
+	background-color: #333333;
+}
+
+nav a {
+	color: #ffffff;
+	display: block;
+	width: 16.66%;
+	float: left;
+	padding: 5px 0;
+}
+
+nav a:hover {
+	background-color: #e06e12;
+}
+
+main {
+	width: 66.66%;
+	float: left;
+	background: #222;
+	color: #E0DEDA;
+	padding: 2em;
+}
+
+article {
+	padding: 20px 0;
+	border-bottom: 1px solid #cccccc;
+}
+
+aside {
+	padding-top: 20px;
+	float: left;
+	width: 33.33%;
+	padding: 2em;
+	color: #E0DEDA;
+}
+
+aside img{
+    padding-top: 20px;
+}
+
+footer {
+	clear: both;
+	background-color: #eeeeee;
+	padding: 20px;
+}
+
+footer p {
+	text-align: right;
+}
+
+ul {
+	padding-left: 20px;
+}
+
+.clearfix:after {
+	display: block;
+	content: " ";
+	clear: both;
+
+	height: 0;
+	font-size: 0;
+	visibility: hidden;
+}
+
+#wrapper {
+	max-width: 1080px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #222;
+}
